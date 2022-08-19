@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*
 * 날짜 : 2022/08/19
 * 이름 : 김보성
-* 내용 : 자바 연습문제
+* 내용 : 자바 if ~ else 조건문 연습문제
 */
 public class Test04 {
 	public static void main(String[] args) {
