@@ -16,7 +16,7 @@ public class MethodOverloading {
 		int r1 = plus(1,2);
 		int r2 = plus(1,2,3);
 		double r3 = plus(1.0, 2.1);
-		String r4 = plus("Hello", "World");
+		String r4 = plus("Hello", " World");
 		
 		System.out.println("r1 : "+r1);
 		System.out.println("r2 : "+r2);
