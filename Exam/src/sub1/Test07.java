@@ -1,4 +1,4 @@
-package Test;
+package sub1;
 // k % 2 == 0 || k % 3 == 0
 /*
  * 날짜 : 2022/08/19

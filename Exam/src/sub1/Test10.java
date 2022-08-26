@@ -1,4 +1,4 @@
-package Test;
+package sub1;
 //n2=n3
 /*
  * 날짜 : 2022/08/19

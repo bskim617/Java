@@ -1,4 +1,4 @@
-package Test;
+package sub1;
 // j>i , j<2*i+1
 /*
  * 날짜 : 2022/08/19
