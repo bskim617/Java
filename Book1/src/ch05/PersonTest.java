@@ -9,6 +9,7 @@ public class PersonTest {
 		personKim.name = "김유신";
 		personKim.weight = 85.5f;
 		personKim.height = 180.0f;
+		
 						
 	}
 

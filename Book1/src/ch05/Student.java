@@ -4,9 +4,18 @@ package ch05;
 public class Student {
 	
 	int studentID;
-	String studentName;
+	// p162 - 정보은닉 private사용 studenttest 클래스 오류발성 
+	private String studentName;
 	int grade;
 	String address;
+	// p164 오류 막기위해 get set매서드 사용
+	public String getstudentName() {
+		return studentName;
+	}
+	
+	public void setstudentName(String studentName) {
+		this.studentName = studentName;
+	}
 	
 	// p132
 	public void showStudentinfo() {
