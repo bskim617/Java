@@ -6,7 +6,7 @@ package sub1;
  * 
  * 배열(Array)
  * - 하나 이상의 데이터를 하나의 변수에 저장할 수 있는 자료구조
- * = 현대 프로그래밍에서는 배열(Array) 대신 리스트(List)를 더 많이 사용
+ * - 현대 프로그래밍에서는 배열(Array) 대신 리스트(List)를 더 많이 사용
  */
 
 public class ArrayTest {

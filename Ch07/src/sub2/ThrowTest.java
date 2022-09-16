@@ -6,8 +6,6 @@ package sub2;
  * 내용 : 예외던지기 실습하기
  */
 
-
-
 public class ThrowTest {
 	public static void main(String[] args) {
 		Calc cal = Calc.getinstance();
